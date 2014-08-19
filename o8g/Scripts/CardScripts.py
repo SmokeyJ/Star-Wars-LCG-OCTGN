@@ -4800,6 +4800,1427 @@ ff4fb461-8060-457a-9c16-000000000636
 +++++
 
 .....
+Heroes and Legends
+-----
+ff4fb461-8060-457a-9c16-000000000637
+-----
+
++++++
+R0:BringToPlayTarget-Targeted-fromHand$$ReturnTarget-Targeted
+.....
+Kyle Katarn
+-----
+ff4fb461-8060-457a-9c16-000000000638
+-----
+onPlay:Put1Focus-DemiAutoTargeted-atUnit-isCommited||onPlay:Remove1Focus-DemiAutoTargeted-atUnit-isCommited-isReact
++++++
+
+.....
+Kyle Katarn
+-----
+ff4fb461-8060-457a-9c16-000000000639
+-----
+onPlay:Put1Focus-DemiAutoTargeted-atUnit-isCommited||onPlay:Remove1Focus-DemiAutoTargeted-atUnit-isCommited-isReact
++++++
+
+.....
+Ataru Training
+-----
+ff4fb461-8060-457a-9c16-000000000640
+-----
+Placement:Force User||whileInPlay:DestroyTarget-DemiAutoTargeted-atUnit-isParticipating-targetOpponents-foreachDefenderEdgeWin-ifOrigDefending-ifEdgeDiffge2-isReact||whileInPlay:DestroyTarget-DemiAutoTargeted-atUnit-isParticipating-targetOpponents-foreachAttackerEdgeWin-ifOrigAttacking-ifEdgeDiffge2-isReact
++++++
+
+.....
+Rahn's Guidance
+-----
+ff4fb461-8060-457a-9c16-000000000641
+-----
+
++++++
+
+.....
+Echoes of the Force
+-----
+ff4fb461-8060-457a-9c16-000000000642
+-----
+onResolveFate:CommitTarget-Targeted-atUnit-isCommited$$UncommitTarget-Targeted-atUnit-isNotCommited
++++++
+
+.....
+Forward Reconnaissance
+-----
+ff4fb461-8060-457a-9c16-000000000643
+-----
+
++++++
+
+.....
+Jan Ors
+-----
+ff4fb461-8060-457a-9c16-000000000644
+-----
+onStrike:ReturnTarget-Targeted-atUnit-targetAllied-onlyOnce-isReact$$Remove1Focus
++++++
+
+.....
+Intel Operative
+-----
+ff4fb461-8060-457a-9c16-000000000645
+-----
+onLeaving:Draw1Card-isReact
++++++
+
+.....
+Intel Operative
+-----
+ff4fb461-8060-457a-9c16-000000000646
+-----
+onLeaving:Draw1Card-isReact
++++++
+
+.....
+Safe House
+-----
+ff4fb461-8060-457a-9c16-000000000647
+-----
+whileInPlay:Remove1Focus-foreachForceStruggleLight-isReact
++++++
+
+.....
+Twist of Fate
+-----
+ff4fb461-8060-457a-9c16-000000000648
+-----
+onResolveFate:CustomScript
++++++
+
+.....
+The False Report
+-----
+ff4fb461-8060-457a-9c16-000000000649
+-----
+onPlay:ReturnMulti-AutoTargeted-atUnit-isReact
++++++
+
+.....
+Aquaris Freeholders
+-----
+ff4fb461-8060-457a-9c16-000000000650
+-----
+
++++++
+
+.....
+Aquaris Freeholders
+-----
+ff4fb461-8060-457a-9c16-000000000651
+-----
+
++++++
+
+.....
+Clearing House
+-----
+ff4fb461-8060-457a-9c16-000000000652
+-----
+
++++++
+
+.....
+Outmaneuver
+-----
+ff4fb461-8060-457a-9c16-000000000653
+-----
+onPlay:ReturnTarget-Targeted-atUnit-targetMine$$ReturnTarget-Targeted-atUnit-targetOpponents
++++++
+
+.....
+Slicing In
+-----
+ff4fb461-8060-457a-9c16-000000000654
+-----
+
++++++
+
+.....
+Scouring the Empire
+-----
+ff4fb461-8060-457a-9c16-000000000655
+-----
+
++++++
+
+.....
+Jerec
+-----
+ff4fb461-8060-457a-9c16-000000000656
+-----
+onStrike:UncommitTarget-DemiAutoTargeted-atUnit-isCommited-isReact
++++++
+
+.....
+Imperial Inquisitor
+-----
+ff4fb461-8060-457a-9c16-000000000657
+-----
+
++++++
+R0:Remove1Focus
+.....
+Imperial Inquisitor
+-----
+ff4fb461-8060-457a-9c16-000000000658
+-----
+
++++++
+R0:Remove1Focus
+.....
+Force Storm
+-----
+ff4fb461-8060-457a-9c16-000000000659
+-----
+
++++++
+onPlay:Put2Damage-AutoTargeted-atUnit-isNotCommited
+.....
+Echoes of the Force
+-----
+ff4fb461-8060-457a-9c16-000000000660
+-----
+onResolveFate:CommitTarget-Targeted-atUnit-isCommited$$UncommitTarget-Targeted-atUnit-isNotCommited
++++++
+
+.....
+The Dark Trooper Project
+-----
+ff4fb461-8060-457a-9c16-000000000661
+-----
+
++++++
+
+.....
+General Mohc
+-----
+ff4fb461-8060-457a-9c16-000000000662
+-----
+
++++++
+
+.....
+Phase I Dark Trooper
+-----
+ff4fb461-8060-457a-9c16-000000000663
+-----
+onPlay:CommitMyself
++++++
+
+.....
+Phase I Dark Trooper
+-----
+ff4fb461-8060-457a-9c16-000000000664
+-----
+onPlay:CommitMyself
++++++
+
+.....
+Experimental Tech Lab
+-----
+ff4fb461-8060-457a-9c16-000000000665
+-----
+whileInPlay:Remove1Focus-foreachForceStruggleDark-isReact
++++++
+
+.....
+Heat of Battle
+-----
+ff4fb461-8060-457a-9c16-000000000666
+-----
+onResolveFate:Deal1Damage-DemiAutoTargeted-atUnit-isParticipating-targetOpponents-choose1
++++++
+
+.....
+Commando Operations
+-----
+ff4fb461-8060-457a-9c16-000000000667
+-----
+
++++++
+
+.....
+General Crix Madine
+-----
+ff4fb461-8060-457a-9c16-000000000668
+-----
+
++++++
+R0:Remove1Focus
+.....
+Rebel Commando
+-----
+ff4fb461-8060-457a-9c16-000000000669
+-----
+
++++++
+
+.....
+Rebel Commando
+-----
+ff4fb461-8060-457a-9c16-000000000670
+-----
+
++++++
+
+.....
+Adaptive Strategy
+-----
+ff4fb461-8060-457a-9c16-000000000671
+-----
+onPlay:SimplyAnnounce{resolve that fate effect again as if that card were in their edge stack}
++++++
+
+.....
+Seeds of Decay
+-----
+ff4fb461-8060-457a-9c16-000000000672
+-----
+onResolveFate:Put1Focus-DemiAutoTargeted-atUnit-isCommited-hasntMarker{Focus}
++++++
+
+.....
+Against All Odds
+-----
+ff4fb461-8060-457a-9c16-000000000673
+-----
+
++++++
+
+.....
+Dash Rendar
+-----
+ff4fb461-8060-457a-9c16-000000000674
+-----
+
++++++
+
+.....
+Shifty Lookout
+-----
+ff4fb461-8060-457a-9c16-000000000675
+-----
+
++++++
+
+.....
+Holding All the Cards
+-----
+ff4fb461-8060-457a-9c16-000000000676
+-----
+onPlay:Draw2Cards$$Draw2Cards-onOpponent
++++++
+
+.....
+Holding All the Cards
+-----
+ff4fb461-8060-457a-9c16-000000000677
+-----
+onPlay:Draw2Cards$$Draw2Cards-onOpponent
++++++
+
+.....
+Target of Opportunity
+-----
+ff4fb461-8060-457a-9c16-000000000678
+-----
+onResolveFate:Deal1Damage-AutoTargeted-atObjective-isParticipating-ifOrigAttacking
++++++
+
+.....
+Agent of the Emperor
+-----
+ff4fb461-8060-457a-9c16-000000000679
+-----
+
++++++
+R0:Put1Focus-Targetet-atUnit-targetOpponents
+.....
+Mara Jade
+-----
+ff4fb461-8060-457a-9c16-000000000680
+-----
+
++++++
+
+.....
+Imperial Shadow Guard
+-----
+ff4fb461-8060-457a-9c16-000000000681
+-----
+
++++++
+R0:Remove1Damage-DemiAutoTargeted-atUnit-hasMarker{Damage}-isCommited-choose1-isCost$$Put1Damage
+.....
+Mara Jade's Lightsaber
+-----
+ff4fb461-8060-457a-9c16-000000000682
+-----
+Placement:Force User_or_Force Sensitive||BonusIcons:UD:1
++++++
+
+.....
+Sith Library
+-----
+ff4fb461-8060-457a-9c16-000000000683
+-----
+
++++++
+
+.....
+Rage
+-----
+ff4fb461-8060-457a-9c16-000000000684
+-----
+onPlay:Remove2Focus-Targeted-atUnit-isCommited
++++++
+
+.....
+Victory or Death
+-----
+ff4fb461-8060-457a-9c16-000000000685
+-----
+
++++++
+
+.....
+Victory-class Star Destroyer
+-----
+ff4fb461-8060-457a-9c16-000000000686
+-----
+ExtraIcon:BD:2-ifHaveForce
++++++
+
+.....
+Victory-class Star Destroyer
+-----
+ff4fb461-8060-457a-9c16-000000000687
+-----
+ExtraIcon:BD:2-ifHaveForce
++++++
+
+.....
+Political Reliability Observer
+-----
+ff4fb461-8060-457a-9c16-000000000688
+-----
+onPlay:CommitTarget-Targeted-atUnit-isCommited$$UncommitTarget-Targeted-atUnit-isNotCommited
++++++
+
+.....
+Control Room
+-----
+ff4fb461-8060-457a-9c16-000000000689
+-----
+
++++++
+
+.....
+Echoes of the Force
+-----
+ff4fb461-8060-457a-9c16-000000000690
+-----
+onResolveFate:CommitTarget-Targeted-atUnit-isCommited$$UncommitTarget-Targeted-atUnit-isNotCommited
++++++
+
+.....
+The Findsman's Intuition
+-----
+ff4fb461-8060-457a-9c16-000000000691
+-----
+
++++++
+
+.....
+Zuckuss
+-----
+ff4fb461-8060-457a-9c16-000000000692
+-----
+
++++++
+
+.....
+4-LOM
+-----
+ff4fb461-8060-457a-9c16-000000000693
+-----
+
++++++
+
+.....
+Containment Field
+-----
+ff4fb461-8060-457a-9c16-000000000694
+-----
+
++++++
+
+.....
+Springing the Ambush
+-----
+ff4fb461-8060-457a-9c16-000000000695
+-----
+onPlay:CaptureTarget-Targeted-atUnit-isCommited
++++++
+
+.....
+Pay Out
+-----
+ff4fb461-8060-457a-9c16-000000000696
+-----
+
++++++
+R0:Remove1Focus-AutoTargeted-atObjective_and_Scum and Villainy-targetMine
+.....
+The Flight of the Crow
+-----
+ff4fb461-8060-457a-9c16-000000000697
+-----
+
++++++
+
+....
+Moldy Crow
+-----
+ff4fb461-8060-457a-9c16-000000000698
+-----
+
++++++
+
+....
+Ruusan Colonist
+-----
+ff4fb461-8060-457a-9c16-000000000699
+-----
+
++++++
+
+....
+Ruusan Colonist
+-----
+ff4fb461-8060-457a-9c16-000000000700
+-----
+
++++++
+
+....
+Valley of the Jedi
+-----
+ff4fb461-8060-457a-9c16-000000000701
+-----
+
++++++
+
+....
+My Ally Is the Force
+-----
+ff4fb461-8060-457a-9c16-000000000702
+-----
+
++++++
+
+....
+The Hoth Gambit
+-----
+ff4fb461-8060-457a-9c16-000000000703
+-----
+
++++++
+
+....
+General Carlist Rieekan
+-----
+ff4fb461-8060-457a-9c16-000000000704
+-----
+
++++++
+
+....
+Echo Base Technician
+-----
+ff4fb461-8060-457a-9c16-000000000705
+-----
+
++++++
+
+....
+Tauntaun
+-----
+ff4fb461-8060-457a-9c16-000000000706
+-----
+
++++++
+
+....
+Snowspeeder Counterattack
+-----
+ff4fb461-8060-457a-9c16-000000000707
+-----
+
++++++
+
+....
+Battle of Hoth
+-----
+ff4fb461-8060-457a-9c16-000000000708
+-----
+onResolveFate:Deal1Damage-Targeted-atObjective_and_Hoth-targetOpponents-noTargetingError||onResolveFate:Remove1Damage-Targeted-atObjective_and_Hoth-targetAllied-noTargetingError
++++++
+
+....
+Along the Gamor Run
+-----
+ff4fb461-8060-457a-9c16-000000000709
+-----
+
++++++
+
+....
+Hyperspace Marauder
+-----
+ff4fb461-8060-457a-9c16-000000000710
+-----
+
++++++
+
+....
+Hired Hands
+-----
+ff4fb461-8060-457a-9c16-000000000711
+-----
+
++++++
+
+....
+Hired Hands
+-----
+ff4fb461-8060-457a-9c16-000000000712
+-----
+
++++++
+
+....
+Deneba Refueling Station
+-----
+ff4fb461-8060-457a-9c16-000000000713
+-----
+
++++++
+
+....
+Make Your Own Luck
+-----
+ff4fb461-8060-457a-9c16-000000000714
+-----
+
++++++
+
+....
+The Plan of the Prophetess
+-----
+ff4fb461-8060-457a-9c16-000000000715
+-----
+
++++++
+
+....
+Sariss
+-----
+ff4fb461-8060-457a-9c16-000000000716
+-----
+
++++++
+
+....
+Servant of the Dark Side
+-----
+ff4fb461-8060-457a-9c16-000000000717
+-----
+
++++++
+
+....
+Dark Temple
+-----
+ff4fb461-8060-457a-9c16-000000000718
+-----
+
++++++
+
+....
+Deadly Sight
+-----
+ff4fb461-8060-457a-9c16-000000000719
+-----
+
++++++
+
+....
+Seeds of Decay
+-----
+ff4fb461-8060-457a-9c16-000000000720
+-----
+onResolveFate:Put1Focus-DemiAutoTargeted-atUnit-isCommited-hasntMarker{Focus}
++++++
+
+....
+The Slave Trade
+-----
+ff4fb461-8060-457a-9c16-000000000721
+-----
+
++++++
+
+....
+Zygerrian Slaver
+-----
+ff4fb461-8060-457a-9c16-000000000722
+-----
+
++++++
+
+....
+Galactic Scum
+-----
+ff4fb461-8060-457a-9c16-000000000723
+-----
+
++++++
+
+....
+Galactic Scum
+-----
+ff4fb461-8060-457a-9c16-000000000724
+-----
+
++++++
+
+....
+Slaver Holding Cells
+-----
+ff4fb461-8060-457a-9c16-000000000725
+-----
+
++++++
+
+....
+Relentless Pursuit
+-----
+ff4fb461-8060-457a-9c16-000000000726
+-----
+
++++++
+
+....
+May the Force Be With You
+-----
+ff4fb461-8060-457a-9c16-000000000727
+-----
+
++++++
+
+.....
+Yoda
+-----
+ff4fb461-8060-457a-9c16-000000000728
+-----
+
++++++
+
+.....
+Dagobah Nudj
+-----
+ff4fb461-8060-457a-9c16-000000000729
+-----
+
++++++
+
+.....
+Dagobah Training Grounds
+-----
+ff4fb461-8060-457a-9c16-000000000730
+-----
+
++++++
+
+.....
+Yoda, You Seek Yoda
+-----
+ff4fb461-8060-457a-9c16-000000000731
+-----
+
++++++
+
+.....
+Seeds of Decay
+-----
+ff4fb461-8060-457a-9c16-000000000732
+-----
+onResolveFate:Put1Focus-DemiAutoTargeted-atUnit-isCommited-hasntMarker{Focus}
++++++
+
+.....
+Behind Enemy Lines
+-----
+ff4fb461-8060-457a-9c16-000000000733
+-----
+
++++++
+
+.....
+Winter
+-----
+ff4fb461-8060-457a-9c16-000000000734
+-----
+
++++++
+
+.....
+Tactical Genius
+-----
+ff4fb461-8060-457a-9c16-000000000735
+-----
+
++++++
+
+.....
+Observation Point
+-----
+ff4fb461-8060-457a-9c16-000000000736
+-----
+
++++++
+
+.....
+Hidden Outpost
+-----
+ff4fb461-8060-457a-9c16-000000000737
+-----
+
++++++
+
+.....
+Infiltration
+-----
+ff4fb461-8060-457a-9c16-000000000738
+-----
+
++++++
+
+.....
+The Second Phase
+-----
+ff4fb461-8060-457a-9c16-000000000739
+-----
+
++++++
+
+.....
+Dark Trooper Legion
+-----
+ff4fb461-8060-457a-9c16-000000000740
+-----
+
++++++
+
+.....
+Dark Trooper Legion
+-----
+ff4fb461-8060-457a-9c16-000000000741
+-----
+
++++++
+
+.....
+Force Shield
+-----
+ff4fb461-8060-457a-9c16-000000000742
+-----
+
++++++
+
+.....
+Facility Repair
+-----
+ff4fb461-8060-457a-9c16-000000000743
+-----
+
++++++
+
+.....
+Consumed by the Dark Side
+-----
+ff4fb461-8060-457a-9c16-000000000744
+-----
+
++++++
+
+.....
+Reinforcements
+-----
+ff4fb461-8060-457a-9c16-000000000745
+-----
+
++++++
+
+.....
+Reserve Troopers
+-----
+ff4fb461-8060-457a-9c16-000000000746
+-----
+
++++++
+
+.....
+Reserve Troopers
+-----
+ff4fb461-8060-457a-9c16-000000000747
+-----
+
++++++
+
+.....
+Security Checkpoint
+-----
+ff4fb461-8060-457a-9c16-000000000748
+-----
+
++++++
+
+.....
+Award Ceremony
+-----
+ff4fb461-8060-457a-9c16-000000000749
+-----
+
++++++
+
+.....
+Echoes of the Force
+-----
+ff4fb461-8060-457a-9c16-000000000750
+-----
+onResolveFate:CommitTarget-Targeted-atUnit-isCommited$$UncommitTarget-Targeted-atUnit-isNotCommited
++++++
+
+.....
+The Scavengers
+-----
+ff4fb461-8060-457a-9c16-000000000751
+-----
+
++++++
+
+.....
+Wittin
+-----
+ff4fb461-8060-457a-9c16-000000000752
+-----
+
++++++
+
+.....
+Jawa Scrap Dealers
+-----
+ff4fb461-8060-457a-9c16-000000000753
+-----
+
++++++
+
+.....
+Jawa Scrap Dealers
+-----
+ff4fb461-8060-457a-9c16-000000000754
+-----
+
++++++
+
+.....
+Watchful Eyes
+-----
+ff4fb461-8060-457a-9c16-000000000755
+-----
+
++++++
+
+.....
+Seeds of Decay
+-----
+ff4fb461-8060-457a-9c16-000000000756
+-----
+onResolveFate:Put1Focus-DemiAutoTargeted-atUnit-isCommited-hasntMarker{Focus}
++++++
+
+.....
+Ties of Blood
+-----
+ff4fb461-8060-457a-9c16-000000000757
+-----
+
++++++
+
+.....
+Leia Organa
+-----
+ff4fb461-8060-457a-9c16-000000000758
+-----
+
++++++
+
+.....
+Ewok Companion
+-----
+ff4fb461-8060-457a-9c16-000000000759
+-----
+onParticipation:Put1Shield-AutoTargeted-atUnit_or_Objective-isParticipating-targetMine-choose1-hasntMarker{Shield}-notHARDCOREenough
++++++
+
+.....
+Native Support
+-----
+ff4fb461-8060-457a-9c16-000000000760
+-----
+
++++++
+
+.....
+Leia's Command
+-----
+ff4fb461-8060-457a-9c16-000000000761
+-----
+
++++++
+
+.....
+Protection
+-----
+ff4fb461-8060-457a-9c16-000000000762
+-----
+onResolveFate:Put1Shield-Targeted-atUnit_or_Objective
++++++
+
+.....
+Green Squadron Deployment
+-----
+ff4fb461-8060-457a-9c16-000000000763
+-----
+
++++++
+
+.....
+Liberty
+-----
+ff4fb461-8060-457a-9c16-000000000764
+-----
+
++++++
+
+.....
+Green Squadron A-Wing
+-----
+ff4fb461-8060-457a-9c16-000000000765
+-----
+
++++++
+
+.....
+Rebel Fighter Bay
+-----
+ff4fb461-8060-457a-9c16-000000000766
+-----
+
++++++
+
+.....
+Evasive Maneuvers
+-----
+ff4fb461-8060-457a-9c16-000000000767
+-----
+
++++++
+
+.....
+Echoes of the Force
+-----
+ff4fb461-8060-457a-9c16-000000000768
+-----
+onResolveFate:CommitTarget-Targeted-atUnit-isCommited$$UncommitTarget-Targeted-atUnit-isNotCommited
++++++
+
+.....
+A Wookiee's Journey
+-----
+ff4fb461-8060-457a-9c16-000000000769
+-----
+
++++++
+
+.....
+Lowhhrick
+-----
+ff4fb461-8060-457a-9c16-000000000770
+-----
+whileInPlay:IncreaseBD:1-forMe-typeWookiee
++++++
+
+.....
+Loyal Wookiee
+-----
+ff4fb461-8060-457a-9c16-000000000771
+-----
+
++++++
+
+.....
+Heart of a Wookiee
+-----
+ff4fb461-8060-457a-9c16-000000000772
+-----
+Placement:Wookiee_and_Unit
++++++
+
+.....
+Faithful Companion
+-----
+ff4fb461-8060-457a-9c16-000000000773
+-----
+
++++++
+
+.....
+Echoes of the Force
+-----
+ff4fb461-8060-457a-9c16-000000000774
+-----
+onResolveFate:CommitTarget-Targeted-atUnit-isCommited$$UncommitTarget-Targeted-atUnit-isNotCommited
++++++
+
+.....
+The Admiral's Assault
+-----
+ff4fb461-8060-457a-9c16-000000000775
+-----
+
++++++
+
+.....
+Admiral Piett
+-----
+ff4fb461-8060-457a-9c16-000000000776
+-----
+
++++++
+
+.....
+Hoth Reinforcements
+-----
+ff4fb461-8060-457a-9c16-000000000777
+-----
+
++++++
+
+.....
+Heat of Battle
+-----
+ff4fb461-8060-457a-9c16-000000000778
+-----
+onResolveFate:Deal1Damage-DemiAutoTargeted-atUnit-isParticipating-targetOpponents-choose1
++++++
+
+.....
+Battle of Hoth
+-----
+ff4fb461-8060-457a-9c16-000000000779
+-----
+onResolveFate:Deal1Damage-Targeted-atObjective_and_Hoth-targetOpponents-noTargetingError||onResolveFate:Remove1Damage-Targeted-atObjective_and_Hoth-targetAllied-noTargetingError
++++++
+
+.....
+Seeds of Decay
+-----
+ff4fb461-8060-457a-9c16-000000000780
+-----
+onResolveFate:Put1Focus-DemiAutoTargeted-atUnit-isCommited-hasntMarker{Focus}
++++++
+
+.....
+The Droid's Task
+-----
+ff4fb461-8060-457a-9c16-000000000781
+-----
+
++++++
+
+.....
+IG-88
+-----
+ff4fb461-8060-457a-9c16-000000000782
+-----
+
++++++
+
+.....
+Reprogrammed DRK-1 Droid
+-----
+ff4fb461-8060-457a-9c16-000000000783
+-----
+
++++++
+
+.....
+Reprogrammed DRK-1 Droid
+-----
+ff4fb461-8060-457a-9c16-000000000784
+-----
+
++++++
+
+.....
+Sonic Detonation
+-----
+ff4fb461-8060-457a-9c16-000000000785
+-----
+
++++++
+
+.....
+Echoes of the Force
+-----
+ff4fb461-8060-457a-9c16-000000000786
+-----
+onResolveFate:CommitTarget-Targeted-atUnit-isCommited$$UncommitTarget-Targeted-atUnit-isNotCommited
++++++
+
+.....
+A Deep Commitment
+-----
+ff4fb461-8060-457a-9c16-000000000787
+-----
++++++
+
+.....
+Feris Olin
+-----
+ff4fb461-8060-457a-9c16-000000000788
+-----
+# onParticipation:Put1Shield-AutoTargeted-atUnit_or_Objective-isParticipating-targetMine-choose1-hasntMarker{Shield}-notHARDCOREenough
++++++
+
+.....
+ET-74 Communications Droid
+-----
+ff4fb461-8060-457a-9c16-000000000789
+-----
++++++
+
+.....
+ET-74 Communications Droid
+-----
+ff4fb461-8060-457a-9c16-000000000790
+-----
++++++
+
+.....
+Asteroid Base
+-----
+ff4fb461-8060-457a-9c16-000000000791
+-----
++++++
+
+.....
+Force Barrier
+-----
+ff4fb461-8060-457a-9c16-000000000792
+-----
++++++
+
+.....
+Impersonating a Deity
+-----
+ff4fb461-8060-457a-9c16-000000000793
+-----
++++++
+
+.....
+C-3PO
+-----
+ff4fb461-8060-457a-9c16-000000000794
+-----
+# whileInPlay:Draw1Card-foreachEdgeWin-ifOrigEdgeWinner-isReact
++++++
+
+.....
+Ewok Lookout
+-----
+ff4fb461-8060-457a-9c16-000000000795
+-----
++++++
+
+.....
+Ewok Lookout
+-----
+ff4fb461-8060-457a-9c16-000000000796
+-----
++++++
+
+.....
+Rash Action
+-----
+ff4fb461-8060-457a-9c16-000000000797
+-----
++++++
+
+.....
+Seeds of Decay
+-----
+ff4fb461-8060-457a-9c16-000000000798
+-----
+onResolveFate:Put1Focus-DemiAutoTargeted-atUnit-isCommited-hasntMarker{Focus}
++++++
+
+.....
+The Call of the Cult
+-----
+ff4fb461-8060-457a-9c16-000000000799
+-----
++++++
+
+.....
+Cularin Cultist
+-----
+ff4fb461-8060-457a-9c16-000000000800
+-----
++++++
+
+.....
+Believer Initiate
+-----
+ff4fb461-8060-457a-9c16-000000000801
+-----
++++++
+
+.....
+Believer Initiate
+-----
+ff4fb461-8060-457a-9c16-000000000802
+-----
++++++
+
+.....
+Hate
+-----
+ff4fb461-8060-457a-9c16-000000000803
+-----
++++++
+
+.....
+Hate
+-----
+ff4fb461-8060-457a-9c16-000000000804
+-----
++++++
+
+.....
+Superior Numbers
+-----
+ff4fb461-8060-457a-9c16-000000000805
+-----
++++++
+
+.....
+Escort Carrier
+-----
+ff4fb461-8060-457a-9c16-000000000806
+-----
++++++
+
+.....
+TIE Scout
+-----
+ff4fb461-8060-457a-9c16-000000000807
+-----
+# onStrike:Remove1Shield-Targeted-sourceAny-hasMarker{Shield}-targetOpponents-isReact
++++++
+
+.....
+TIE Scout
+-----
+ff4fb461-8060-457a-9c16-000000000808
+-----
+# onStrike:Remove1Shield-Targeted-sourceAny-hasMarker{Shield}-targetOpponents-isReact
++++++
+
+.....
+Precision Flying
+-----
+ff4fb461-8060-457a-9c16-000000000809
+-----
+# Placement:Fighter_and_Unit||ConstantEffect:Edge2Bonus
++++++
+
+.....
+Precision Flying
+-----
+ff4fb461-8060-457a-9c16-000000000810
+-----
+# Placement:Fighter_and_Unit||ConstantEffect:Edge2Bonus
++++++
+
+.....
+The Slimiest Scheme
+-----
+ff4fb461-8060-457a-9c16-000000000811
+-----
+# R0:Put1Focus-isCost$$returnToHand-Targeted-atUnit
++++++
+
+.....
+Salacious B. Crumb
+-----
+ff4fb461-8060-457a-9c16-000000000812
+-----
+
++++++
+
+.....
+Palace Security
+-----
+ff4fb461-8060-457a-9c16-000000000813
+-----
+# onPlay:Remove1Damage-Targeted-atObjective-targetMine
++++++
+
+.....
+Palace Security
+-----
+ff4fb461-8060-457a-9c16-000000000814
+-----
+# onPlay:Remove1Damage-Targeted-atObjective-targetMine
++++++
+
+.....
+Prized Possession
+-----
+ff4fb461-8060-457a-9c16-000000000815
+-----
++++++
+
+.....
+Chain Reaction
+-----
+ff4fb461-8060-457a-9c16-000000000816
+-----
++++++
+
+.....
 ENDSCRIPTS
 =====
 '''
