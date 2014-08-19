@@ -416,7 +416,7 @@
   <property name="Damage Capacity" value="1" />
   <property name="Resources" value="0" />
   <property name="Edge Priority" value="" />
-  <property name="Text" value="Reaction: After this unit is focsed to strike, remove a shield from a target unit or objective." />
+  <property name="Text" value="Reaction: After this unit is focused to strike, remove a shield from a target unit or objective." />
   <property name="Flavor" value="" />
   <property name="Side" value="Dark" />
   <property name="Affiliation" value="Neutral" />
@@ -436,7 +436,7 @@
   <property name="Damage Capacity" value="1" />
   <property name="Resources" value="0" />
   <property name="Edge Priority" value="" />
-  <property name="Text" value="Reaction: After this unit is focsed to strike, remove a shield from a target unit or objective." />
+  <property name="Text" value="Reaction: After this unit is focused to strike, remove a shield from a target unit or objective." />
   <property name="Flavor" value="" />
   <property name="Side" value="Dark" />
   <property name="Affiliation" value="Neutral" />
